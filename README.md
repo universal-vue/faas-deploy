@@ -1,29 +1,11 @@
-# uvue-faas
+# UVue - FaaS
 
-## Project setup
-```
-yarn install
-```
+> Samples to deploy your UVue application on some serverless services
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+**Work in progress**
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## Firebase
 
-### Run your tests
-```
-yarn run test
-```
+## Now v2
 
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## AWS Lambda
